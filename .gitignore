@@ -1,0 +1,8 @@
+.DS_Store
+**/.terraform/
+.idea/
+run.sh
+*.log
+tmp/
+terraform.tfstate
+.terraform.lock.hcl
