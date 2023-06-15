@@ -13,6 +13,9 @@ resource "null_resource" "example4" {}
 
 resource "null_resource" "example6" {}
 
+resource "null_resource" "example7" {}
+
+
 
 
 
