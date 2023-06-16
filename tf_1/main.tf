@@ -23,6 +23,7 @@ resource "null_resource" "example10" {}
 
 resource "null_resource" "example11" {}
 
+
 resource "null_resource" "example12" {}
 
 resource "null_resource" "example13" {}
@@ -43,6 +44,7 @@ resource "null_resource" "example20" {}
 
 resource "null_resource" "example21" {}
 
+resource "null_resource" "example22" {}
 
 
 
